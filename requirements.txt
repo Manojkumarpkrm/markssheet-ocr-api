@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+pytesseract==0.3.13
+Pillow==10.4.0
+
+easyocr==1.7.1
+
+pandas==2.2.3
+numpy==1.26.4
+
+openai==1.47.0
+python-dotenv==1.0.1
+
+requests==2.32.3
+
+
